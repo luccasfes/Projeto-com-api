@@ -1,0 +1,11 @@
+--insert into curso values (1, "O aluno está Aprovado");
+--insert into curso values (2, "O aluno está de Recuperação");
+--insert into curso values (3, "O aluno está Reprovado");
+--
+--insert into aluno (id,altura,idade,nome,nota,sexo,curso_id) values(default, 1.78,19,"Lucas",96.7,"M",1);
+--insert into aluno (id,altura,idade,nome,nota,sexo,curso_id) values(default, 1.67,18,"Mariana",75.8,"F",1);
+--insert into aluno (id,altura,idade,nome,nota,sexo,curso_id) values(default, 1.80,25,"Frank",55.0,"M",2);
+--insert into aluno (id,altura,idade,nome,nota,sexo,curso_id) values(default, 1.80,25,"Willian",50.5,"M",2);
+--insert into aluno (id,altura,idade,nome,nota,sexo,curso_id) values(default, 1.80,27,"Gregory",45.0,"M", 3);
+--insert into aluno (id,altura,idade,nome,nota,sexo,curso_id) values(default, 1.80,27,"Sandra",40.2,"F", 3);
+--insert into aluno (id,altura,idade,nome,nota,sexo,curso_id) values(default, 1.80,21,"Wanda",75.5,"F" 1);
